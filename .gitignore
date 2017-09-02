@@ -40,6 +40,8 @@ Thumbs.db
 # NodeJs
 /node_modules/
 package-lock.json
+/src/**/*.js
+/src/**/*.js.map
 
 
 # Local testing properties
